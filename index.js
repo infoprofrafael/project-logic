@@ -1,4 +1,4 @@
-for(let i =1; i<1=0; i++){
+for(let i =1; i<=10; i++){
     console.log("Olá mundão!")
 
 }
